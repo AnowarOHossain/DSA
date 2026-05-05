@@ -949,6 +949,6 @@ public:
 
 ## Handwritten Notes
 
-I have documented my learning journey in Data Structures and Algorithms with handwritten notes. You can access the PDFs here:
+I have documented my learning journey Data Structures with handwritten notes. You can access the PDFs here:
 
 - [📄 Data Structures Handwritten Notes] (https://drive.google.com/file/d/1BKg1VpmiADVZWj8bz27d-UdW1XkvRcFs/view?usp=sharing)
