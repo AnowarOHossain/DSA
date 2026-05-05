@@ -556,7 +556,7 @@ Use randomness to make decisions during execution.
 
 ## Handwritten Notes
 
-I have documented my learning journey in Algorithms with handwritten notes. You can access the PDFs here:
+I have documented my learning journey Algorithms with handwritten notes. You can access the PDFs here:
 
 - [📄 Algorithms Handwritten Notes] (https://drive.google.com/file/d/11MPKn7mrogqpHeiRZYoC12RbRJ_GUqNf/view?usp=sharing)
 
