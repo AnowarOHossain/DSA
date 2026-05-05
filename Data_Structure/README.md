@@ -1,6 +1,6 @@
 # Data Structure Notes
 
-**Author:** Anowar Hossain
+**Author:** Anowar Hossain  
 **Subject:** Data Structure
 
 ---
